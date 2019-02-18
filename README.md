@@ -1,7 +1,7 @@
 # Experimental Mapping
 
 Files with location information suitable for viewing on github.
-Click on the file names to display a simple map (*.geojson) or the underlying data table (*.csv).
+Click on the file names to display a simple map (.geojson) or the underlying data table (.csv).
 
 ## Terra sigillata
 
