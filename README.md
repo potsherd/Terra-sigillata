@@ -9,3 +9,5 @@ Location of Roman *terra sigillata* production sites
 
 * tskilns.csv: data on location of *sigillata* kiln sites
 * tskilns.geojson: map of *sigillata* kiln sites (suitable for viewing on github)
+
+The map is also visible on the uMap site at  <https://umap.openstreetmap.fr/en/map/terra-sigillata-kilns_294890>.
